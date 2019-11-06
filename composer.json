@@ -1,5 +1,5 @@
 {
-    "name": "auto1-oss/service-api-client-bundle",
+    "name": "yusefauto1/service-api-client-bundle",
     "license": "MIT",
     "type": "auto1-bundle",
     "description": "Auto1 Service API Client for PHP projects",
@@ -15,9 +15,9 @@
     ],
     "require": {
         "php": ">=7.0.8",
-        "auto1-oss/service-api-components-bundle": "^1.0",
+        "yusefauto1/service-api-components-bundle": "1.0.1",
         "auto1-oss/service-api-request": "^1.0",
-        "symfony/serializer" : "~3.0|~4.0",
+        "symfony/serializer" : "^2.7.39",
         "symfony/security" : "~3.0|~4.0",
         "symfony/monolog-bridge": "~3.0|~4.0",
         "symfony/dependency-injection": "~3.0|~4.0",
