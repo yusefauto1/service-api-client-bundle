@@ -23,7 +23,7 @@
         "symfony/dependency-injection": "^2.7.39",
         "symfony/config": "^2.7.39",
         "symfony/http-kernel": "^2.7.39",
-        "symfony/property-info": "^2.7.39",
+        "symfony/property-info": "^2.8",
         "monolog/monolog": "~1.22",
         "php-http/client-common": "^1.5",
         "php-http/discovery": "^1.7",
